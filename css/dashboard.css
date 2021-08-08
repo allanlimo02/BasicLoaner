@@ -1,0 +1,20 @@
+body{
+    overflow-x: hidden;
+}
+.cl1{
+    height: 900px;
+    background-color: #120e49;
+    border-radius: 20px ;
+    text-align: center;
+    color: white;
+}
+#useravatar{
+    border-radius: 50%;
+}
+.btn{
+    padding-right: 60px ;
+}
+.cl3{
+    background-color: rgb(4, 175, 4);
+    text-align: center;
+}

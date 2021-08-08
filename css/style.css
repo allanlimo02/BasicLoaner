@@ -1,0 +1,31 @@
+.ltxt{
+        position: fixed;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        color: #f1f1f1;
+        width: 100%;
+        padding: 180px;
+        text-align: center;
+      
+}
+
+#lvideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+#logo{
+    border-radius: 50%;
+}
+
+.signin{
+    margin-right: 20px;
+}
+.signup{
+    margin-left: 30px;
+}
+.exchange{
+    background-color:rgb(255, 255, 255,0.7);
+}
